@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox_main.iml" group="sandbox" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox_test.iml" group="sandbox" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teamo.iml" filepath="$PROJECT_DIR$/.idea/modules/teamo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teamo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/teamo_main.iml" group="teamo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teamo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/teamo_test.iml" group="teamo" />
     </modules>
   </component>
 </project>

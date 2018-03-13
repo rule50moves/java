@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <resourceExtensions />
-    <annotationProcessing>
-      <profile default="true" name="Default" enabled="false">
-        <processorPath useClasspath="true" />
-      </profile>
-    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sandbox_main" target="1.9" />
       <module name="sandbox_test" target="1.9" />
+      <module name="teamo_main" target="1.9" />
+      <module name="teamo_test" target="1.9" />
     </bytecodeTargetLevel>
   </component>
 </project>
